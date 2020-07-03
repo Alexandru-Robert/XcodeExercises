@@ -7,6 +7,7 @@ final class XcodeExercisesTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
         XCTAssertEqual(XcodeExercises().text, "Hello, World!")
+        
     }
 
     static var allTests = [
